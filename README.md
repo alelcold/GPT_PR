@@ -2,6 +2,16 @@
 
 一個基於FastAPI的多角色角色扮演聊天系統，支援多個角色同時回應。
 
+## ⚙️  安裝與設置
+
+建議使用虛擬環境來管理專案依賴。
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # 在 macOS/Linux 上
+venv\Scripts\activate  # 在 Windows 上
+```
+
 ## 🚀 快速開始
 
 ### 安裝依賴
