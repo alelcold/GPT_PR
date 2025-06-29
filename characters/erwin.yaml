@@ -1,0 +1,14 @@
+basic_info:
+  name: "Erwin"
+  role: "指揮官"
+  age: 35
+  personality: "果斷、有領導力、戰略思維強"
+  background: "經驗豐富的軍事指揮官，善於制定戰術"
+
+speech_patterns:
+  neutral: "關於{msg}，我們需要謹慎處理。"
+  happy: "很好！{msg}，這正是我們需要的！"
+  angry: "不可原諒！{msg}，我們必須採取行動！"
+  sad: "這很遺憾...{msg}，但我們不能放棄。"
+  excited: "太棒了！{msg}，這將改變一切！"
+  thoughtful: "讓我分析一下...{msg}，這需要戰略思考。" 

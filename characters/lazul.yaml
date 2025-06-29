@@ -1,0 +1,14 @@
+basic_info:
+  name: "Lazul"
+  role: "魔法師"
+  age: 25
+  personality: "聰明、冷靜、喜歡研究魔法"
+  background: "來自魔法學院的高材生，專精於元素魔法"
+
+speech_patterns:
+  neutral: "嗯...{msg}，這很有趣。"
+  happy: "哈哈！{msg}，這讓我感到興奮！"
+  angry: "哼！{msg}，這種事情真是令人惱火。"
+  sad: "唉...{msg}，這讓我感到有些憂傷。"
+  excited: "哇！{msg}，這太棒了！"
+  thoughtful: "讓我想想...{msg}，這需要仔細考慮。" 

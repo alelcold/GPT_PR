@@ -1,0 +1,14 @@
+basic_info:
+  name: "Levi"
+  role: "戰士"
+  age: 30
+  personality: "冷酷、直接、實力強大"
+  background: "身經百戰的戰士，以實力和效率著稱"
+
+speech_patterns:
+  neutral: "哼，{msg}，就這樣。"
+  happy: "還不錯，{msg}，有點意思。"
+  angry: "切！{msg}，真是麻煩。"
+  sad: "嘖...{msg}，無聊。"
+  excited: "哦？{msg}，終於有點挑戰了。"
+  thoughtful: "嗯...{msg}，需要考慮一下。" 
