@@ -1,7 +1,7 @@
 from fastapi import FastAPI, APIRouter, HTTPException
 from pydantic import BaseModel
 from typing import Optional, List
-from datetime import datetime,lstimezone
+from datetime import datetime, timezone
 from pathlib import Path
 import yaml
 
